@@ -1,1 +1,3 @@
-var ww = 'qweqw';
+const var1 = 'var';
+
+console.log(var1);
