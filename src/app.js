@@ -1,2 +1,2 @@
 var ww = 'qweq';
-console.log('wewe');
+console.log('wewe12');
