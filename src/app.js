@@ -1,3 +1,3 @@
 const var1 = 'var';
 
-console.log(var1);
+console.log(var1, 'var1');
