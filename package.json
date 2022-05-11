@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint ./src",
+    "lint": "eslint ./src --color",
     "postinstall": "husky install"
   },
   "dependencies": {
@@ -13,10 +13,5 @@
     "eslint-plugin-import": "^2.26.0",
     "husky": "^8.0.1",
     "lint-staged": "^12.4.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint-staged"
-    }
   }
 }
