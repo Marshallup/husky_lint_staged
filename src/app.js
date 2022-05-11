@@ -1,2 +1,2 @@
 var ww = 'qweq';
-console.log('wewe12123');
+console.log('wewe12123qweqwe');
